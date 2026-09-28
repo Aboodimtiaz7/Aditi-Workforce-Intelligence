@@ -221,7 +221,7 @@
     "todLabel": "Recruitment & Client Services",
     "odcLabel": "ODC ",
     "internalLabel": "Internal",
-    "contractorsLabel": "Contractors",
+    "contractorsLabel": "India ToDContractors",
     "capacityEyebrow": "Capacity & hiring",
     "capacityTitle": "Approved HC, active HC and hiring demand",
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:55:03.119Z"
+  "updatedAt": "2026-09-28T17:55:08.296Z"
 }
