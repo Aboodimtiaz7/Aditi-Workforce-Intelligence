@@ -256,7 +256,7 @@
     "exitSubtitle": "Latest reporting week",
     "exitCallout": "No new exit themes to report",
     "exitMessage": "No exit occurred during the latest reporting week; therefore, there are no new exit-interview themes or actions to report.",
-    "footerLeft": "Internal workforce snapshot · Contractor source: JobDiva",
+    "footerLeft": "",
     "footerRight": "Latest week: no exit interviews recorded"
   },
   "theme": {
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:55:25.229Z"
+  "updatedAt": "2026-09-28T17:55:40.883Z"
 }
