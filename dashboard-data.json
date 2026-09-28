@@ -218,7 +218,7 @@
     "compositionTitle": "Organisation composition",
     "compositionSubtitle": "A complete view across internal teams and client contractors",
     "totalHcLabel": "Total HC",
-    "todLabel": "TOD",
+    "todLabel": "Recruitment ",
     "odcLabel": "ODC / DES",
     "internalLabel": "Internal",
     "contractorsLabel": "Contractors",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:54:37.131Z"
+  "updatedAt": "2026-09-28T17:54:46.409Z"
 }
