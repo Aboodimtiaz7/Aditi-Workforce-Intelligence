@@ -240,7 +240,7 @@
     "leaveStatusLabel": "Long leave",
     "pipStatusLabel": "PIP",
     "missingNamesLabel": "",
-    "noEmployeesLabel": "No employees reported",
+    "noEmployeesLabel": "",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
     "attritionSubtitle": "Quarter totals shown above each bar · {exits} exits YTD",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:55:23.279Z"
+  "updatedAt": "2026-09-28T17:55:25.229Z"
 }
