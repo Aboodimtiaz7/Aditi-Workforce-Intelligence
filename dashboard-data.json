@@ -72,7 +72,7 @@
       "offered": 4,
       "tbh": 8,
       "positions": "12 × Billable client positions",
-      "offeredPeople": "Names not provided",
+      "offeredPeople": "",
       "servingNotice": 1,
       "servingNoticePeople": "Arjun D",
       "longLeave": 0,
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:56:26.370Z"
+  "updatedAt": "2026-09-28T17:56:47.477Z"
 }
