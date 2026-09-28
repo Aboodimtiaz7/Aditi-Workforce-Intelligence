@@ -219,7 +219,7 @@
     "compositionSubtitle": "A complete view across internal teams and client contractors",
     "totalHcLabel": "Total HC",
     "todLabel": "Recruitment & Client Services",
-    "odcLabel": "ODC / DES",
+    "odcLabel": "ODC ",
     "internalLabel": "Internal",
     "contractorsLabel": "Contractors",
     "capacityEyebrow": "Capacity & hiring",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:54:55.331Z"
+  "updatedAt": "2026-09-28T17:54:58.137Z"
 }
