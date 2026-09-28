@@ -203,7 +203,7 @@
   "attritionRate": 36,
   "content": {
     "title": "Workforce Intelligence",
-    "scope": "India · TOD · DES · Internal · Contractors",
+    "scope": "",
     "snapshotLabel": "Snapshot",
     "snapshotDate": "28 Sep 2026",
     "organisationKpiLabel": "Organisation HC",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:54:18.105Z"
+  "updatedAt": "2026-09-28T17:54:22.766Z"
 }
