@@ -221,7 +221,7 @@
     "todLabel": "Recruitment & Client Services",
     "odcLabel": "ODC ",
     "internalLabel": "Internal",
-    "contractorsLabel": "India ToDContractors",
+    "contractorsLabel": "India ToD Contractors",
     "capacityEyebrow": "Capacity & hiring",
     "capacityTitle": "Approved HC, active HC and hiring demand",
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
@@ -239,7 +239,7 @@
     "noticeStatusLabel": "Serving notice",
     "leaveStatusLabel": "Long leave",
     "pipStatusLabel": "PIP",
-    "missingNamesLabel": "Names not provided",
+    "missingNamesLabel": "",
     "noEmployeesLabel": "No employees reported",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:55:08.296Z"
+  "updatedAt": "2026-09-28T17:55:23.279Z"
 }
