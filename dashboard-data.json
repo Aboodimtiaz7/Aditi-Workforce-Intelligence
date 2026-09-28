@@ -257,7 +257,7 @@
     "exitCallout": "No new exit themes to report",
     "exitMessage": "No exit occurred during the latest reporting week; therefore, there are no new exit-interview themes or actions to report.",
     "footerLeft": "",
-    "footerRight": "Latest week: no exit interviews recorded"
+    "footerRight": ""
   },
   "theme": {
     "navy": "#06263A",
@@ -279,5 +279,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-28T17:55:40.883Z"
+  "updatedAt": "2026-09-28T17:55:42.869Z"
 }
