@@ -1,0 +1,283 @@
+{
+  "capacity": [
+    {
+      "unit": "US Recruitment",
+      "approved": 65,
+      "active": 59,
+      "open": 6,
+      "offered": 0,
+      "tbh": 6,
+      "positions": "6 × US Technical Recruiter",
+      "offeredPeople": "",
+      "servingNotice": 1,
+      "servingNoticePeople": "Ishika Rajdev",
+      "longLeave": 0,
+      "longLeavePeople": "",
+      "pip": 1,
+      "pipPeople": "Ameer Hamza"
+    },
+    {
+      "unit": "India Recruitment",
+      "approved": 33,
+      "active": 32,
+      "open": 1,
+      "offered": 0,
+      "tbh": 1,
+      "positions": "1 × Technical Recruiter",
+      "offeredPeople": "",
+      "servingNotice": 0,
+      "servingNoticePeople": "",
+      "longLeave": 1,
+      "longLeavePeople": "Akshara Anant (ML)",
+      "pip": 1,
+      "pipPeople": "Akshara Anant"
+    },
+    {
+      "unit": "Client Services",
+      "approved": 19,
+      "active": 19,
+      "open": 0,
+      "offered": 0,
+      "tbh": 0,
+      "positions": "No open positions",
+      "offeredPeople": "",
+      "servingNotice": 0,
+      "servingNoticePeople": "",
+      "longLeave": 0,
+      "longLeavePeople": "",
+      "pip": 0,
+      "pipPeople": ""
+    },
+    {
+      "unit": "Business Operations",
+      "approved": 82,
+      "active": 77,
+      "open": 5,
+      "offered": 3,
+      "tbh": 2,
+      "positions": "2 × TE – Trainee · 1 × Engagement Specialist · 1 × HR Service Delivery · 1 × Desktop Support Executive",
+      "offeredPeople": "Lata Mishra (TE – Trainee), Chaitanyashree (Engagement Specialist), Vanitha G (HR Service Delivery)",
+      "servingNotice": 1,
+      "servingNoticePeople": "Bishwarup Dutta",
+      "longLeave": 1,
+      "longLeavePeople": "Piyali (ML)",
+      "pip": 0,
+      "pipPeople": ""
+    },
+    {
+      "unit": "ODC / DES",
+      "approved": 159,
+      "active": 147,
+      "open": 12,
+      "offered": 4,
+      "tbh": 8,
+      "positions": "12 × Billable client positions",
+      "offeredPeople": "Names not provided",
+      "servingNotice": 1,
+      "servingNoticePeople": "Arjun D",
+      "longLeave": 0,
+      "longLeavePeople": "",
+      "pip": 0,
+      "pipPeople": ""
+    }
+  ],
+  "attrition": [
+    {
+      "unit": "US Recruitment",
+      "q1": 14,
+      "q2": 11,
+      "q3": 7,
+      "ytd": 32,
+      "rate": 46
+    },
+    {
+      "unit": "India Recruitment",
+      "q1": 7,
+      "q2": 5,
+      "q3": 3,
+      "ytd": 15,
+      "rate": 45
+    },
+    {
+      "unit": "Client Services",
+      "q1": 1,
+      "q2": 2,
+      "q3": 3,
+      "ytd": 6,
+      "rate": 30
+    },
+    {
+      "unit": "Business Operations",
+      "q1": 4,
+      "q2": 9,
+      "q3": 4,
+      "ytd": 17,
+      "rate": 22
+    },
+    {
+      "unit": "ODC",
+      "q1": 17,
+      "q2": 20,
+      "q3": 13,
+      "ytd": 50,
+      "rate": 37
+    }
+  ],
+  "contractors": [
+    {
+      "name": "Standard Chartered",
+      "count": 153,
+      "share": 41.5
+    },
+    {
+      "name": "Amazon",
+      "count": 67,
+      "share": 18.2
+    },
+    {
+      "name": "PayPal",
+      "count": 59,
+      "share": 16
+    },
+    {
+      "name": "Microsoft",
+      "count": 29,
+      "share": 7.9
+    },
+    {
+      "name": "Caterpillar",
+      "count": 20,
+      "share": 5.4
+    },
+    {
+      "name": "MasterCard",
+      "count": 13,
+      "share": 3.5
+    },
+    {
+      "name": "LinkedIn",
+      "count": 11,
+      "share": 3
+    },
+    {
+      "name": "Diageo PLC",
+      "count": 6,
+      "share": 1.6
+    },
+    {
+      "name": "Q2 Financials",
+      "count": 4,
+      "share": 1.1
+    },
+    {
+      "name": "PepsiCo",
+      "count": 3,
+      "share": 0.8
+    },
+    {
+      "name": "Intuit",
+      "count": 2,
+      "share": 0.5
+    },
+    {
+      "name": "Salesforce",
+      "count": 2,
+      "share": 0.5
+    },
+    {
+      "name": "H&M",
+      "count": 0,
+      "share": 0
+    },
+    {
+      "name": "MindSprint",
+      "count": 0,
+      "share": 0
+    },
+    {
+      "name": "PWC",
+      "count": 0,
+      "share": 0
+    }
+  ],
+  "attritionRate": 36,
+  "content": {
+    "title": "Workforce Intelligence",
+    "scope": "India · TOD · DES · Internal · Contractors",
+    "snapshotLabel": "Snapshot",
+    "snapshotDate": "28 Sep 2026",
+    "organisationKpiLabel": "Organisation HC",
+    "organisationKpiCaption": "{internal} internal · {contractors} contractors",
+    "capacityKpiLabel": "Internal capacity",
+    "capacityKpiCaption": "{active} active of {approved} approved",
+    "openingsKpiLabel": "Open positions",
+    "openingsKpiCaption": "{offered} offered · {tbh} still TBH",
+    "attritionKpiLabel": "2026 attrition",
+    "attritionKpiCaption": "{exits} exits through Q3",
+    "compositionEyebrow": "Workforce mix",
+    "compositionTitle": "Organisation composition",
+    "compositionSubtitle": "A complete view across internal teams and client contractors",
+    "totalHcLabel": "Total HC",
+    "todLabel": "TOD",
+    "odcLabel": "ODC / DES",
+    "internalLabel": "Internal",
+    "contractorsLabel": "Contractors",
+    "capacityEyebrow": "Capacity & hiring",
+    "capacityTitle": "Approved HC, active HC and hiring demand",
+    "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
+    "businessUnitColumn": "Business unit",
+    "approvedColumn": "Approved",
+    "activeColumn": "Active vs approved",
+    "positionsColumn": "Positions being hired",
+    "openColumn": "Open",
+    "offeredColumn": "Offered",
+    "tbhColumn": "TBH",
+    "peopleEyebrow": "People status",
+    "peopleTitle": "Named workforce movements",
+    "peopleSubtitle": "Offered candidates, serving notice, long leave and PIP by business unit",
+    "offeredStatusLabel": "Offered",
+    "noticeStatusLabel": "Serving notice",
+    "leaveStatusLabel": "Long leave",
+    "pipStatusLabel": "PIP",
+    "missingNamesLabel": "Names not provided",
+    "noEmployeesLabel": "No employees reported",
+    "attritionEyebrow": "Retention",
+    "attritionTitle": "Attrition trend",
+    "attritionSubtitle": "Quarter totals shown above each bar · {exits} exits YTD",
+    "contractorEyebrow": "Contractors",
+    "contractorTitle": "All client accounts",
+    "contractorSubtitle": "{contractors} contractors across {accounts} India client accounts",
+    "insightsEyebrow": "Board brief",
+    "insightsTitle": "Executive insights",
+    "scorecardEyebrow": "Operating detail",
+    "scorecardTitle": "Business unit scorecard",
+    "exitEyebrow": "Exit interview analysis",
+    "exitTitle": "No exit interviews recorded",
+    "exitSubtitle": "Latest reporting week",
+    "exitCallout": "No new exit themes to report",
+    "exitMessage": "No exit occurred during the latest reporting week; therefore, there are no new exit-interview themes or actions to report.",
+    "footerLeft": "Internal workforce snapshot · Contractor source: JobDiva",
+    "footerRight": "Latest week: no exit interviews recorded"
+  },
+  "theme": {
+    "navy": "#06263A",
+    "cyan": "#08A9D1",
+    "teal": "#00A67E",
+    "amber": "#F3A712",
+    "danger": "#DC2626",
+    "background": "#F3F6F7",
+    "text": "#102A3A",
+    "fontFamily": "Aptos, Segoe UI, Arial, sans-serif",
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "fontScale": 100,
+    "chartColors": [
+      "#06263A",
+      "#08A9D1",
+      "#78CFE3",
+      "#F3A712",
+      "#00A67E"
+    ]
+  },
+  "updatedAt": "2026-09-28T16:20:37.804Z"
+}
