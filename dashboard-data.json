@@ -65,7 +65,7 @@
       "pipPeople": ""
     },
     {
-      "unit": "ODC ",
+      "unit": "ODC",
       "approved": 159,
       "active": 147,
       "open": 12,
@@ -86,9 +86,9 @@
       "unit": "US Recruitment",
       "q1": 14,
       "q2": 11,
-      "q3": 7,
-      "ytd": 32,
-      "rate": 46
+      "q3": 9,
+      "ytd": 34,
+      "rate": 50
     },
     {
       "unit": "India Recruitment",
@@ -96,7 +96,7 @@
       "q2": 5,
       "q3": 3,
       "ytd": 15,
-      "rate": 45
+      "rate": 44.1
     },
     {
       "unit": "Client Services",
@@ -104,23 +104,23 @@
       "q2": 2,
       "q3": 3,
       "ytd": 6,
-      "rate": 30
+      "rate": 33.3
     },
     {
       "unit": "Business Operations",
       "q1": 4,
       "q2": 9,
-      "q3": 4,
-      "ytd": 17,
-      "rate": 22
+      "q3": 5,
+      "ytd": 18,
+      "rate": 23.2
     },
     {
-      "unit": "ODC",
-      "q1": 17,
-      "q2": 20,
-      "q3": 13,
-      "ytd": 50,
-      "rate": 37
+      "unit": "ODC Internal",
+      "q1": 6,
+      "q2": 6,
+      "q3": 9,
+      "ytd": 21,
+      "rate": 23.6
     }
   ],
   "contractors": [
@@ -200,12 +200,28 @@
       "share": 0
     }
   ],
-  "attritionRate": 36,
+  "attritionRate": 32,
+  "workforceBreakdown": {
+    "desFixedTermContractors": 31,
+    "odcInternal": 97,
+    "odcAiLabs": 15,
+    "odcInterns": 3,
+    "odcInternalQ1": 6,
+    "odcInternalQ2": 6,
+    "odcInternalQ3": 9,
+    "odcInternalAttritionRate": 23.6,
+    "odcBillableQ1": null,
+    "odcBillableQ2": null,
+    "odcBillableQ3": null,
+    "odcBillableAttritionRate": null,
+    "indiaTodContractorExits": null,
+    "indiaTodContractorAttritionRate": null
+  },
   "content": {
     "title": "Workforce Intelligence",
     "scope": "",
     "snapshotLabel": "Snapshot",
-    "snapshotDate": "28 Sep 2026",
+    "snapshotDate": "07 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
     "capacityKpiLabel": "Internal capacity",
@@ -213,13 +229,13 @@
     "openingsKpiLabel": "Open positions",
     "openingsKpiCaption": "{offered} offered · {tbh} TBH",
     "attritionKpiLabel": "2026 attrition",
-    "attritionKpiCaption": "{exits} exits through Q3",
+    "attritionKpiCaption": "{exits} employee exits through Q3",
     "compositionEyebrow": "Workforce mix",
     "compositionTitle": "Organisation composition",
     "compositionSubtitle": "A complete view across internal teams and client contractors",
     "totalHcLabel": "Total HC",
     "todLabel": "Recruitment & Client Services",
-    "odcLabel": "ODC ",
+    "odcLabel": "ODC",
     "internalLabel": "Business Operations",
     "contractorsLabel": "India ToD Contractors",
     "capacityEyebrow": "Capacity & hiring",
@@ -243,7 +259,7 @@
     "noEmployeesLabel": "",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
-    "attritionSubtitle": "Quarter totals shown above each bar · {exits} exits YTD",
+    "attritionSubtitle": "Employee cohorts only · ODC contractors excluded · {exits} exits YTD",
     "contractorEyebrow": "Contractors",
     "contractorTitle": "All client accounts",
     "contractorSubtitle": "{contractors} contractors across {accounts} India client accounts",
@@ -279,5 +295,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-09-29T12:33:43.015Z"
+  "updatedAt": "2026-10-07T13:43:34.654Z"
 }
