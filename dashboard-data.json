@@ -204,7 +204,7 @@
   "workforceBreakdown": {
     "desFixedTermContractors": null,
     "odcInternal": null,
-    "odcAiLabs": 15,
+    "odcAiLabs": 10,
     "odcInterns": 3,
     "odcInternalQ1": 6,
     "odcInternalQ2": 6,
@@ -296,5 +296,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-10-08T13:47:08.260Z"
+  "updatedAt": "2026-10-08T13:47:30.466Z"
 }
