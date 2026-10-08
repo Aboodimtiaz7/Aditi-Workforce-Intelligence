@@ -204,9 +204,19 @@
   "workforceBreakdown": {
     "desFixedTermContractors": null,
     "odcInternal": null,
-    "odcBillable": null,
+    "odcAiLabs": 15,
+    "odcInterns": 3,
+    "odcInternalQ1": 6,
+    "odcInternalQ2": 6,
+    "odcInternalQ3": 9,
+    "odcInternalAttritionRate": 23.6,
+    "odcBillableQ1": null,
+    "odcBillableQ2": null,
+    "odcBillableQ3": null,
+    "odcBillableAttritionRate": null,
     "indiaTodContractorExits": null,
-    "indiaTodContractorAttritionRate": null
+    "indiaTodContractorAttritionRate": null,
+    "odcBillable": null
   },
   "content": {
     "title": "Workforce Intelligence",
@@ -286,5 +296,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-10-07T15:38:32.442Z"
+  "updatedAt": "2026-10-08T13:47:08.260Z"
 }
