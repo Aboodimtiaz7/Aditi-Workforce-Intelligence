@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238 58" role="img" aria-labelledby="title">
+  <title id="title">Aditi Consulting</title>
+  <g fill="#ffffff">
+    <text x="0" y="32" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="6">ADITI</text>
+    <text x="1" y="53" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="5.4">CONSULTING</text>
+  </g>
+  <path d="M3 32 15 2h7L9 32H3Z" fill="#ffffff"/>
+  <path d="M14.5 20.5h12l2.2 5.5H12.2l2.3-5.5Z" fill="#08A9D1"/>
+</svg>
