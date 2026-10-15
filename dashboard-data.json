@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "capacity": [
     {
       "unit": "US Recruitment",
@@ -183,11 +183,11 @@
       "unit": "ODC",
       "q1": 8,
       "q2": 7,
-      "q3": 10,
+      "q3": 11,
       "q4": 2,
-      "ytd": 27,
-      "currentAttrition": 19.1,
-      "rate": 23,
+      "ytd": 28,
+      "currentAttrition": 19.9,
+      "rate": 23.8,
       "opening": 139,
       "closing": 143,
       "average": 141,
@@ -213,11 +213,11 @@
       "unit": "ODC",
       "q1": 8,
       "q2": 7,
-      "q3": 10,
+      "q3": 11,
       "q4": 2,
-      "ytd": 27,
-      "currentAttrition": 19.1,
-      "rate": 23,
+      "ytd": 28,
+      "currentAttrition": 19.9,
+      "rate": 23.8,
       "opening": 139,
       "closing": 143,
       "average": 141,
@@ -241,11 +241,11 @@
       "unit": "ODC Internal Billable",
       "q1": 5,
       "q2": 4,
-      "q3": 1,
+      "q3": 2,
       "q4": 1,
-      "ytd": 11,
-      "currentAttrition": 12.8,
-      "rate": 15.3,
+      "ytd": 12,
+      "currentAttrition": 14,
+      "rate": 16.7,
       "opening": 93,
       "closing": 79,
       "average": 86,
@@ -286,11 +286,11 @@
       "q3": 58,
       "q4": 2,
       "ytd": 163,
-      "currentAttrition": 51.5,
-      "rate": 61.8,
+      "currentAttrition": 51.6,
+      "rate": 61.9,
       "opening": 259,
-      "closing": 374,
-      "average": 316.5,
+      "closing": 373,
+      "average": 316,
       "includedInOverall": false
     }
   ],
@@ -302,7 +302,7 @@
       "joiners": 117,
       "exits": 19,
       "attritionRate": 22.8,
-      "share": 41.7
+      "share": 41.8
     },
     {
       "name": "Amazon",
@@ -311,16 +311,16 @@
       "joiners": 68,
       "exits": 8,
       "attritionRate": 26.6,
-      "share": 18.4
+      "share": 18.5
     },
     {
       "name": "PayPal",
-      "count": 57,
+      "count": 56,
       "openingHc": 41,
       "joiners": 23,
       "exits": 13,
       "attritionRate": 31.8,
-      "share": 15.2
+      "share": 15
     },
     {
       "name": "Microsoft",
@@ -338,7 +338,7 @@
       "joiners": 20,
       "exits": 0,
       "attritionRate": 0,
-      "share": 5.3
+      "share": 5.4
     },
     {
       "name": "MasterCard",
@@ -396,12 +396,12 @@
     },
     {
       "name": "PepsiCo",
-      "count": 2,
+      "count": 3,
       "openingHc": 0,
       "joiners": 2,
       "exits": 0,
       "attritionRate": 0,
-      "share": 0.5
+      "share": 0.8
     },
     {
       "name": "Salesforce",
@@ -411,15 +411,6 @@
       "exits": 0,
       "attritionRate": 0,
       "share": 0.5
-    },
-    {
-      "name": "Unassigned",
-      "count": 1,
-      "openingHc": 2,
-      "joiners": 0,
-      "exits": 1,
-      "attritionRate": 80,
-      "share": 0.3
     }
   ],
   "clientDeployment": [
@@ -435,14 +426,14 @@
       "indiaTod": 69,
       "odc": 2,
       "total": 71,
-      "share": 13.7
+      "share": 13.8
     },
     {
       "name": "PayPal",
-      "indiaTod": 57,
+      "indiaTod": 56,
       "odc": 7,
-      "total": 64,
-      "share": 12.4
+      "total": 63,
+      "share": 12.2
     },
     {
       "name": "T-Mobile",
@@ -456,7 +447,7 @@
       "indiaTod": 0,
       "odc": 39,
       "total": 39,
-      "share": 7.5
+      "share": 7.6
     },
     {
       "name": "Microsoft",
@@ -642,10 +633,10 @@
     "odcInternalAverage": 13.5,
     "odcBillableQ1": 5,
     "odcBillableQ2": 4,
-    "odcBillableQ3": 1,
+    "odcBillableQ3": 2,
     "odcBillableQ4": 1,
-    "odcBillableAttritionRate": 15.3,
-    "odcBillableCurrentAttritionRate": 12.8,
+    "odcBillableAttritionRate": 16.7,
+    "odcBillableCurrentAttritionRate": 14,
     "odcBillableOpening": 93,
     "odcBillableClosing": 79,
     "odcBillableAverage": 86,
@@ -659,11 +650,11 @@
     "odcFtcClosing": 31,
     "odcFtcAverage": 32.5,
     "indiaTodContractorExits": 163,
-    "indiaTodContractorAttritionRate": 61.8,
-    "indiaTodContractorCurrentAttritionRate": 51.5,
+    "indiaTodContractorAttritionRate": 61.9,
+    "indiaTodContractorCurrentAttritionRate": 51.6,
     "indiaTodContractorOpening": 259,
-    "indiaTodContractorClosing": 374,
-    "indiaTodContractorAverage": 316.5,
+    "indiaTodContractorClosing": 373,
+    "indiaTodContractorAverage": 316,
     "indiaTodContractorQ1": 66,
     "indiaTodContractorQ2": 37,
     "indiaTodContractorQ3": 58,
@@ -717,7 +708,7 @@
     "noEmployeesLabel": "No employees reported",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
-    "attritionSubtitle": "Internal KPI excludes ODC internal billable, ODC fixed-term contractors and India ToD contractors",
+    "attritionSubtitle": "Internal excludes ODC internal billable, ODC fixed-term contractors and India ToD contractors",
     "contractorEyebrow": "Contractors",
     "contractorTitle": "All client accounts",
     "contractorSubtitle": "{contractors} contractors across {accounts} India client accounts",
@@ -728,8 +719,8 @@
     "exitEyebrow": "Exit interview analysis",
     "exitTitle": "Confidential exit interview review",
     "exitSubtitle": "Restricted people information · latest reporting week",
-    "exitCallout": "No exit-interview data supplied in the current workbook",
-    "exitMessage": "Upload authorised, anonymised exit-interview themes through the admin Excel template when source data is available.",
+    "exitCallout": "Exit interview feedback",
+    "exitMessage": "Positives\nStrong Company Culture — Employee rated Aditi's culture 10/10, appreciating the positive work environment and organisational values.\nAdequate Work Resources — Employee confirmed being 100% equipped with the tools, resources and support needed to perform effectively.\nStrong Performance Feedback — Manager acknowledged professionalism, ownership, technical expertise and consistent contributions.\n\nConcerns\nManagerial Behavior (Indira) — Employee reported frequent yelling, harsh communication and a perceived lack of respect from the reporting manager.\nEmployee Grievance Handling — Employee felt that concerns escalated to PD were not adequately addressed or followed up.\nLack of Managerial Accountability — Employee reported that similar concerns had been raised during pulse connects without visible corrective action.\nTeam Morale — Employee indicated that other team members also experienced dissatisfaction with the manager's behaviour.",
     "footerLeft": "Internal workforce snapshot · Source: Neew.xlsx",
     "footerRight": "Category-based counts · Snapshot 15 Oct 2026"
   },
@@ -753,5 +744,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-10-15T10:43:09.247Z"
+  "updatedAt": "2026-10-15T11:12:06.021Z"
 }
