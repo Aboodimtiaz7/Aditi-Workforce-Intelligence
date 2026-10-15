@@ -1,14 +1,15 @@
 {
+  "schemaVersion": 4,
   "capacity": [
     {
       "unit": "US Recruitment",
-      "approved": 65,
-      "active": 59,
-      "open": 6,
-      "offered": 0,
+      "approved": 64,
+      "active": 57,
+      "open": 7,
+      "offered": 1,
       "tbh": 6,
-      "positions": "6 × US Technical Recruiter",
-      "offeredPeople": "",
+      "positions": "7 × US Technical Recruiter",
+      "offeredPeople": "Roshan Dsouza",
       "servingNotice": 1,
       "servingNoticePeople": "Ishika Rajdev",
       "longLeave": 0,
@@ -29,13 +30,13 @@
       "servingNoticePeople": "",
       "longLeave": 1,
       "longLeavePeople": "Akshara Anant (ML)",
-      "pip": 1,
-      "pipPeople": "Akshara Anant"
+      "pip": 0,
+      "pipPeople": ""
     },
     {
       "unit": "Client Services",
-      "approved": 19,
-      "active": 19,
+      "approved": 18,
+      "active": 18,
       "open": 0,
       "offered": 0,
       "tbh": 0,
@@ -50,31 +51,31 @@
     },
     {
       "unit": "Business Operations",
-      "approved": 82,
-      "active": 77,
-      "open": 5,
-      "offered": 3,
-      "tbh": 2,
-      "positions": "2 × TE – Trainee, 1 × Engagement Specialist, 1 × HR Service Delivery, 1 × Desktop Support Executive",
-      "offeredPeople": "Lata Mishra (TE – Trainee), Chaitanyashree (Engagement Specialist), Vanitha G (HR Service Delivery)",
-      "servingNotice": 1,
-      "servingNoticePeople": "Bishwarup Dutta",
+      "approved": 86,
+      "active": 76,
+      "open": 10,
+      "offered": 1,
+      "tbh": 9,
+      "positions": "1 × Engagement Specialist · 1 × HR Service Delivery · 1 × Desktop Support Executive · 1 × Global Leader – Learning & Talent Development · 2 × HRMS Administrator · 1 × Business Process / Systems Analyst · 1 × Global Employee Engagement Manager · 1 × Global Compensation & Total Rewards Manager · 1 × Director – Global HR Service Center",
+      "offeredPeople": "",
+      "servingNotice": 0,
+      "servingNoticePeople": "",
       "longLeave": 1,
       "longLeavePeople": "Piyali (ML)",
       "pip": 0,
       "pipPeople": ""
     },
     {
-      "unit": "ODC ",
-      "approved": 159,
-      "active": 147,
-      "open": 12,
-      "offered": 4,
+      "unit": "ODC",
+      "approved": 152,
+      "active": 143,
+      "open": 9,
+      "offered": 1,
       "tbh": 8,
-      "positions": "12 × Billable client positions",
+      "positions": "9 × Billable fixed-term contractor positions",
       "offeredPeople": "",
-      "servingNotice": 1,
-      "servingNoticePeople": "Arjun D",
+      "servingNotice": 0,
+      "servingNoticePeople": "",
       "longLeave": 0,
       "longLeavePeople": "",
       "pip": 0,
@@ -83,162 +84,618 @@
   ],
   "attrition": [
     {
+      "unit": "Recruitment & Client Services",
+      "q1": 22,
+      "q2": 18,
+      "q3": 16,
+      "q4": 0,
+      "ytd": 56,
+      "currentAttrition": 46,
+      "rate": 55,
+      "opening": 136,
+      "closing": 107,
+      "average": 121.5,
+      "includedInOverall": true
+    },
+    {
+      "unit": "Business Operations",
+      "q1": 4,
+      "q2": 9,
+      "q3": 5,
+      "q4": 0,
+      "ytd": 18,
+      "currentAttrition": 23,
+      "rate": 28,
+      "opening": 79,
+      "closing": 76,
+      "average": 77.5,
+      "includedInOverall": true
+    },
+    {
+      "unit": "ODC Internal",
+      "q1": 0,
+      "q2": 0,
+      "q3": 1,
+      "q4": 1,
+      "ytd": 2,
+      "currentAttrition": 14.8,
+      "rate": 17.8,
+      "opening": 12,
+      "closing": 15,
+      "average": 13.5,
+      "includedInOverall": true
+    }
+  ],
+  "attritionByBusinessUnit": [
+    {
       "unit": "US Recruitment",
       "q1": 14,
       "q2": 11,
-      "q3": 7,
-      "ytd": 32,
-      "rate": 46
+      "q3": 9,
+      "q4": 0,
+      "ytd": 34,
+      "currentAttrition": 50,
+      "rate": 60,
+      "opening": 79,
+      "closing": 57,
+      "average": 68
     },
     {
       "unit": "India Recruitment",
       "q1": 7,
       "q2": 5,
       "q3": 3,
+      "q4": 0,
       "ytd": 15,
-      "rate": 45
+      "currentAttrition": 44,
+      "rate": 53,
+      "opening": 36,
+      "closing": 32,
+      "average": 34
     },
     {
       "unit": "Client Services",
       "q1": 1,
       "q2": 2,
-      "q3": 3,
-      "ytd": 6,
-      "rate": 30
+      "q3": 4,
+      "q4": 0,
+      "ytd": 7,
+      "currentAttrition": 36,
+      "rate": 43,
+      "opening": 21,
+      "closing": 18,
+      "average": 19.5
     },
     {
       "unit": "Business Operations",
       "q1": 4,
       "q2": 9,
-      "q3": 4,
-      "ytd": 17,
-      "rate": 22
+      "q3": 5,
+      "q4": 0,
+      "ytd": 18,
+      "currentAttrition": 23,
+      "rate": 28,
+      "opening": 79,
+      "closing": 76,
+      "average": 77.5
     },
     {
       "unit": "ODC",
-      "q1": 17,
-      "q2": 20,
-      "q3": 13,
-      "ytd": 50,
-      "rate": 37
+      "q1": 8,
+      "q2": 7,
+      "q3": 10,
+      "q4": 2,
+      "ytd": 27,
+      "currentAttrition": 19.1,
+      "rate": 23,
+      "opening": 139,
+      "closing": 143,
+      "average": 141,
+      "includedInOverall": false
+    }
+  ],
+  "attritionCohorts": [
+    {
+      "unit": "Recruitment & Client Services",
+      "q1": 22,
+      "q2": 18,
+      "q3": 16,
+      "q4": 0,
+      "ytd": 56,
+      "currentAttrition": 46,
+      "rate": 55,
+      "opening": 136,
+      "closing": 107,
+      "average": 121.5,
+      "includedInOverall": true
+    },
+    {
+      "unit": "ODC",
+      "q1": 8,
+      "q2": 7,
+      "q3": 10,
+      "q4": 2,
+      "ytd": 27,
+      "currentAttrition": 19.1,
+      "rate": 23,
+      "opening": 139,
+      "closing": 143,
+      "average": 141,
+      "includedInOverall": false
+    },
+    {
+      "unit": "ODC Internal",
+      "q1": 0,
+      "q2": 0,
+      "q3": 1,
+      "q4": 1,
+      "ytd": 2,
+      "currentAttrition": 14.8,
+      "rate": 17.8,
+      "opening": 12,
+      "closing": 15,
+      "average": 13.5,
+      "includedInOverall": true
+    },
+    {
+      "unit": "ODC Internal Billable",
+      "q1": 5,
+      "q2": 4,
+      "q3": 1,
+      "q4": 1,
+      "ytd": 11,
+      "currentAttrition": 12.8,
+      "rate": 15.3,
+      "opening": 93,
+      "closing": 79,
+      "average": 86,
+      "includedInOverall": false
+    },
+    {
+      "unit": "ODC Fixed Term Contractors",
+      "q1": 3,
+      "q2": 3,
+      "q3": 8,
+      "q4": 0,
+      "ytd": 14,
+      "currentAttrition": 43.1,
+      "rate": 51.7,
+      "opening": 34,
+      "closing": 31,
+      "average": 32.5,
+      "includedInOverall": false
+    },
+    {
+      "unit": "Business Operations",
+      "q1": 4,
+      "q2": 9,
+      "q3": 5,
+      "q4": 0,
+      "ytd": 18,
+      "currentAttrition": 23,
+      "rate": 28,
+      "opening": 79,
+      "closing": 76,
+      "average": 77.5,
+      "includedInOverall": true
+    },
+    {
+      "unit": "India ToD Contractors",
+      "q1": 66,
+      "q2": 37,
+      "q3": 58,
+      "q4": 2,
+      "ytd": 163,
+      "currentAttrition": 51.5,
+      "rate": 61.8,
+      "opening": 259,
+      "closing": 374,
+      "average": 316.5,
+      "includedInOverall": false
     }
   ],
   "contractors": [
     {
       "name": "Standard Chartered",
-      "count": 153,
-      "share": 41.5
+      "count": 156,
+      "openingHc": 44,
+      "joiners": 117,
+      "exits": 19,
+      "attritionRate": 22.8,
+      "share": 41.7
     },
     {
       "name": "Amazon",
-      "count": 67,
-      "share": 18.2
+      "count": 69,
+      "openingHc": 3,
+      "joiners": 68,
+      "exits": 8,
+      "attritionRate": 26.6,
+      "share": 18.4
     },
     {
       "name": "PayPal",
-      "count": 59,
-      "share": 16
+      "count": 57,
+      "openingHc": 41,
+      "joiners": 23,
+      "exits": 13,
+      "attritionRate": 31.8,
+      "share": 15.2
     },
     {
       "name": "Microsoft",
       "count": 29,
-      "share": 7.9
+      "openingHc": 20,
+      "joiners": 11,
+      "exits": 3,
+      "attritionRate": 14.6,
+      "share": 7.8
     },
     {
       "name": "Caterpillar",
       "count": 20,
-      "share": 5.4
+      "openingHc": 0,
+      "joiners": 20,
+      "exits": 0,
+      "attritionRate": 0,
+      "share": 5.3
     },
     {
       "name": "MasterCard",
       "count": 13,
+      "openingHc": 12,
+      "joiners": 3,
+      "exits": 3,
+      "attritionRate": 28.8,
       "share": 3.5
     },
     {
       "name": "LinkedIn",
-      "count": 11,
-      "share": 3
+      "count": 12,
+      "openingHc": 8,
+      "joiners": 7,
+      "exits": 4,
+      "attritionRate": 48,
+      "share": 3.2
     },
     {
       "name": "Diageo PLC",
-      "count": 6,
-      "share": 1.6
+      "count": 4,
+      "openingHc": 1,
+      "joiners": 3,
+      "exits": 2,
+      "attritionRate": 96,
+      "share": 1.1
     },
     {
       "name": "Q2 Financials",
       "count": 4,
+      "openingHc": 4,
+      "joiners": 0,
+      "exits": 1,
+      "attritionRate": 30,
       "share": 1.1
     },
     {
-      "name": "PepsiCo",
+      "name": "Rubrik",
       "count": 3,
+      "openingHc": 2,
+      "joiners": 1,
+      "exits": 0,
+      "attritionRate": 0,
       "share": 0.8
     },
     {
       "name": "Intuit",
       "count": 2,
+      "openingHc": 3,
+      "joiners": 0,
+      "exits": 1,
+      "attritionRate": 48,
+      "share": 0.5
+    },
+    {
+      "name": "PepsiCo",
+      "count": 2,
+      "openingHc": 0,
+      "joiners": 2,
+      "exits": 0,
+      "attritionRate": 0,
       "share": 0.5
     },
     {
       "name": "Salesforce",
       "count": 2,
+      "openingHc": 2,
+      "joiners": 0,
+      "exits": 0,
+      "attritionRate": 0,
       "share": 0.5
     },
     {
-      "name": "H&M",
-      "count": 0,
-      "share": 0
-    },
-    {
-      "name": "MindSprint",
-      "count": 0,
-      "share": 0
-    },
-    {
-      "name": "PWC",
-      "count": 0,
-      "share": 0
+      "name": "Unassigned",
+      "count": 1,
+      "openingHc": 2,
+      "joiners": 0,
+      "exits": 1,
+      "attritionRate": 80,
+      "share": 0.3
     }
   ],
-  "attritionRate": 36,
+  "clientDeployment": [
+    {
+      "name": "Standard Chartered",
+      "indiaTod": 156,
+      "odc": 0,
+      "total": 156,
+      "share": 30.2
+    },
+    {
+      "name": "Amazon",
+      "indiaTod": 69,
+      "odc": 2,
+      "total": 71,
+      "share": 13.7
+    },
+    {
+      "name": "PayPal",
+      "indiaTod": 57,
+      "odc": 7,
+      "total": 64,
+      "share": 12.4
+    },
+    {
+      "name": "T-Mobile",
+      "indiaTod": 0,
+      "odc": 60,
+      "total": 60,
+      "share": 11.6
+    },
+    {
+      "name": "Wabtec",
+      "indiaTod": 0,
+      "odc": 39,
+      "total": 39,
+      "share": 7.5
+    },
+    {
+      "name": "Microsoft",
+      "indiaTod": 29,
+      "odc": 1,
+      "total": 30,
+      "share": 5.8
+    },
+    {
+      "name": "Caterpillar",
+      "indiaTod": 20,
+      "odc": 7,
+      "total": 27,
+      "share": 5.2
+    },
+    {
+      "name": "MasterCard",
+      "indiaTod": 13,
+      "odc": 0,
+      "total": 13,
+      "share": 2.5
+    },
+    {
+      "name": "LinkedIn",
+      "indiaTod": 12,
+      "odc": 0,
+      "total": 12,
+      "share": 2.3
+    },
+    {
+      "name": "Rubrik",
+      "indiaTod": 3,
+      "odc": 4,
+      "total": 7,
+      "share": 1.4
+    },
+    {
+      "name": "AI Labs",
+      "indiaTod": 0,
+      "odc": 6,
+      "total": 6,
+      "share": 1.2
+    },
+    {
+      "name": "Salesforce",
+      "indiaTod": 2,
+      "odc": 4,
+      "total": 6,
+      "share": 1.2
+    },
+    {
+      "name": "Diageo PLC",
+      "indiaTod": 4,
+      "odc": 0,
+      "total": 4,
+      "share": 0.8
+    },
+    {
+      "name": "Q2 Financials",
+      "indiaTod": 4,
+      "odc": 0,
+      "total": 4,
+      "share": 0.8
+    },
+    {
+      "name": "Bench",
+      "indiaTod": 0,
+      "odc": 4,
+      "total": 4,
+      "share": 0.8
+    },
+    {
+      "name": "PepsiCo",
+      "indiaTod": 3,
+      "odc": 2,
+      "total": 5,
+      "share": 1
+    },
+    {
+      "name": "GE Aerospace",
+      "indiaTod": 0,
+      "odc": 3,
+      "total": 3,
+      "share": 0.6
+    },
+    {
+      "name": "Overhead",
+      "indiaTod": 0,
+      "odc": 2,
+      "total": 2,
+      "share": 0.4
+    },
+    {
+      "name": "Intuit",
+      "indiaTod": 2,
+      "odc": 0,
+      "total": 2,
+      "share": 0.4
+    },
+    {
+      "name": "Sales",
+      "indiaTod": 0,
+      "odc": 1,
+      "total": 1,
+      "share": 0.2
+    },
+    {
+      "name": "Practice",
+      "indiaTod": 0,
+      "odc": 1,
+      "total": 1,
+      "share": 0.2
+    }
+  ],
+  "indiaTodExitClients": [
+    {
+      "name": "PayPal",
+      "exits": 55
+    },
+    {
+      "name": "Amazon",
+      "exits": 29
+    },
+    {
+      "name": "Standard Chartered",
+      "exits": 27
+    },
+    {
+      "name": "Microsoft",
+      "exits": 23
+    },
+    {
+      "name": "LinkedIn",
+      "exits": 7
+    },
+    {
+      "name": "MasterCard",
+      "exits": 6
+    },
+    {
+      "name": "Diageo PLC",
+      "exits": 4
+    },
+    {
+      "name": "Salesforce",
+      "exits": 4
+    },
+    {
+      "name": "Q2 Financials",
+      "exits": 3
+    },
+    {
+      "name": "Intuit",
+      "exits": 2
+    },
+    {
+      "name": "H&M",
+      "exits": 1
+    },
+    {
+      "name": "Unassigned",
+      "exits": 1
+    },
+    {
+      "name": "Unmapped",
+      "exits": 1
+    }
+  ],
+  "attritionRate": 43,
   "workforceBreakdown": {
-    "desFixedTermContractors": null,
-    "odcInternal": null,
-    "odcAiLabs": 10,
+    "desFixedTermContractors": 31,
+    "odcInternal": 15,
+    "odcAiLabs": 15,
     "odcInterns": 3,
-    "odcInternalQ1": 6,
-    "odcInternalQ2": 6,
-    "odcInternalQ3": 9,
-    "odcInternalAttritionRate": 23.6,
-    "odcBillableQ1": null,
-    "odcBillableQ2": null,
-    "odcBillableQ3": null,
-    "odcBillableAttritionRate": null,
-    "indiaTodContractorExits": null,
-    "indiaTodContractorAttritionRate": null,
-    "odcBillable": null
+    "odcInternalQ1": 0,
+    "odcInternalQ2": 0,
+    "odcInternalQ3": 1,
+    "odcInternalQ4": 1,
+    "odcInternalAttritionRate": 17.8,
+    "odcInternalCurrentAttritionRate": 14.8,
+    "odcInternalOpening": 12,
+    "odcInternalClosing": 15,
+    "odcInternalAverage": 13.5,
+    "odcBillableQ1": 5,
+    "odcBillableQ2": 4,
+    "odcBillableQ3": 1,
+    "odcBillableQ4": 1,
+    "odcBillableAttritionRate": 15.3,
+    "odcBillableCurrentAttritionRate": 12.8,
+    "odcBillableOpening": 93,
+    "odcBillableClosing": 79,
+    "odcBillableAverage": 86,
+    "odcFtcQ1": 3,
+    "odcFtcQ2": 3,
+    "odcFtcQ3": 8,
+    "odcFtcQ4": 0,
+    "odcFtcAttritionRate": 51.7,
+    "odcFtcCurrentAttritionRate": 43.1,
+    "odcFtcOpening": 34,
+    "odcFtcClosing": 31,
+    "odcFtcAverage": 32.5,
+    "indiaTodContractorExits": 163,
+    "indiaTodContractorAttritionRate": 61.8,
+    "indiaTodContractorCurrentAttritionRate": 51.5,
+    "indiaTodContractorOpening": 259,
+    "indiaTodContractorClosing": 374,
+    "indiaTodContractorAverage": 316.5,
+    "indiaTodContractorQ1": 66,
+    "indiaTodContractorQ2": 37,
+    "indiaTodContractorQ3": 58,
+    "indiaTodContractorQ4": 2,
+    "sharedInternal": 182,
+    "sharedInterns": 2,
+    "odcFtc": 31,
+    "odcInternalBillable": 79,
+    "indiaTodContractorJoiners": 278,
+    "indiaTodContractorNetMovement": 115
   },
   "content": {
     "title": "Workforce Intelligence",
-    "scope": "",
+    "scope": "India · TOD · ODC · Internal · Contractors",
     "snapshotLabel": "Snapshot",
-    "snapshotDate": "28 Sep 2026",
+    "snapshotDate": "15 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
     "capacityKpiLabel": "Internal capacity",
     "capacityKpiCaption": "{active} active of {approved} approved",
     "openingsKpiLabel": "Open positions",
-    "openingsKpiCaption": "{offered} offered · {tbh} TBH",
+    "openingsKpiCaption": "{offered} offered · {tbh} still TBH",
     "attritionKpiLabel": "2026 attrition",
-    "attritionKpiCaption": "{exits} exits through Q3",
+    "attritionKpiCaption": "{exits} qualifying internal exits YTD",
     "compositionEyebrow": "Workforce mix",
     "compositionTitle": "Organisation composition",
     "compositionSubtitle": "A complete view across internal teams and client contractors",
     "totalHcLabel": "Total HC",
-    "todLabel": "Recruitment & Client Services",
-    "odcLabel": "ODC ",
-    "internalLabel": "Business Operations",
-    "contractorsLabel": "India ToD Contractors",
+    "todLabel": "TOD",
+    "odcLabel": "ODC",
+    "internalLabel": "Internal",
+    "contractorsLabel": "Contractors",
     "capacityEyebrow": "Capacity & hiring",
     "capacityTitle": "Approved HC, active HC and hiring demand",
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
@@ -256,11 +713,11 @@
     "noticeStatusLabel": "Serving notice",
     "leaveStatusLabel": "Long leave",
     "pipStatusLabel": "PIP",
-    "missingNamesLabel": "",
-    "noEmployeesLabel": "",
+    "missingNamesLabel": "Names not provided",
+    "noEmployeesLabel": "No employees reported",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
-    "attritionSubtitle": "Quarter totals shown above each bar · {exits} exits YTD",
+    "attritionSubtitle": "Internal KPI excludes ODC internal billable, ODC fixed-term contractors and India ToD contractors",
     "contractorEyebrow": "Contractors",
     "contractorTitle": "All client accounts",
     "contractorSubtitle": "{contractors} contractors across {accounts} India client accounts",
@@ -269,12 +726,12 @@
     "scorecardEyebrow": "Operating detail",
     "scorecardTitle": "Business unit scorecard",
     "exitEyebrow": "Exit interview analysis",
-    "exitTitle": "No exit interviews recorded",
-    "exitSubtitle": "Latest reporting week",
-    "exitCallout": "No new exit themes to report",
-    "exitMessage": "No exit occurred during the latest reporting week; therefore, there are no new exit-interview themes or actions to report.",
-    "footerLeft": "",
-    "footerRight": ""
+    "exitTitle": "Confidential exit interview review",
+    "exitSubtitle": "Restricted people information · latest reporting week",
+    "exitCallout": "No exit-interview data supplied in the current workbook",
+    "exitMessage": "Upload authorised, anonymised exit-interview themes through the admin Excel template when source data is available.",
+    "footerLeft": "Internal workforce snapshot · Source: Neew.xlsx",
+    "footerRight": "Category-based counts · Snapshot 15 Oct 2026"
   },
   "theme": {
     "navy": "#06263A",
@@ -287,7 +744,7 @@
     "fontFamily": "Aptos, Segoe UI, Arial, sans-serif",
     "headingWeight": 700,
     "bodyWeight": 400,
-    "fontScale": 110,
+    "fontScale": 100,
     "chartColors": [
       "#06263A",
       "#08A9D1",
@@ -296,5 +753,5 @@
       "#00A67E"
     ]
   },
-  "updatedAt": "2026-10-08T13:47:30.466Z"
+  "updatedAt": "2026-10-15T10:43:09.247Z"
 }
