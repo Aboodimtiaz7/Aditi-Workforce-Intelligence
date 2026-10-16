@@ -3,16 +3,16 @@
   "capacity": [
     {
       "unit": "US Recruitment",
-      "approved": 65,
-      "active": 58,
-      "servingNotice": 1,
+      "approved": 64,
+      "active": 57,
+      "servingNotice": 0,
       "open": 7,
       "offered": 1,
       "tbh": 6,
       "longLeave": 0,
       "pip": 1,
       "bench": 7,
-      "servingNoticePeople": "Ishika Rajdev",
+      "servingNoticePeople": "",
       "positions": "7 US Technical Recruiter",
       "offeredPeople": "Roshan Dsouza",
       "longLeavePeople": "",
@@ -84,7 +84,7 @@
       "tbh": 0,
       "longLeave": 0,
       "pip": 0,
-      "bench": 1,
+      "bench": 4,
       "servingNoticePeople": "",
       "positions": "7 × Billable fixed-term contractor positions",
       "offeredPeople": "",
@@ -98,13 +98,13 @@
       "q1": 22,
       "q2": 18,
       "q3": 15,
-      "q4": 0,
-      "ytd": 55,
-      "currentAttrition": 45.08196721311475,
-      "rate": 54.09836065573771,
+      "q4": 1,
+      "ytd": 56,
+      "currentAttrition": 46.09053497942387,
+      "rate": 55.30864197530864,
       "opening": 136,
-      "closing": 108,
-      "average": 122,
+      "closing": 107,
+      "average": 121.5,
       "includedInOverall": true
     },
     {
@@ -142,13 +142,13 @@
       "q1": 14,
       "q2": 11,
       "q3": 9,
-      "q4": 0,
-      "ytd": 34,
-      "currentAttrition": 49.63503649635037,
-      "rate": 59.56204379562043,
+      "q4": 1,
+      "ytd": 35,
+      "currentAttrition": 51.470588235294116,
+      "rate": 61.764705882352935,
       "opening": 79,
-      "closing": 58,
-      "average": 68.5
+      "closing": 57,
+      "average": 68
     },
     {
       "unit": "India Recruitment",
@@ -209,13 +209,13 @@
       "q1": 22,
       "q2": 18,
       "q3": 15,
-      "q4": 0,
-      "ytd": 55,
-      "currentAttrition": 45.08196721311475,
-      "rate": 54.09836065573771,
+      "q4": 1,
+      "ytd": 56,
+      "currentAttrition": 46.09053497942387,
+      "rate": 55.30864197530864,
       "opening": 136,
-      "closing": 108,
-      "average": 122,
+      "closing": 107,
+      "average": 121.5,
       "includedInOverall": true
     },
     {
@@ -478,15 +478,15 @@
     },
     {
       "indiaTod": 0,
-      "odc": 3,
-      "name": "GE Aerospace",
-      "total": 3,
-      "share": 0.5692599620493358
+      "odc": 4,
+      "name": "Bench",
+      "total": 4,
+      "share": 0.7590132827324478
     },
     {
       "indiaTod": 0,
       "odc": 3,
-      "name": "Razia",
+      "name": "GE Aerospace",
       "total": 3,
       "share": 0.5692599620493358
     },
@@ -503,13 +503,6 @@
       "name": "Practice Head",
       "total": 2,
       "share": 0.3795066413662239
-    },
-    {
-      "indiaTod": 0,
-      "odc": 1,
-      "name": "Bench",
-      "total": 1,
-      "share": 0.18975332068311196
     },
     {
       "indiaTod": 0,
@@ -580,7 +573,7 @@
       "exits": 1
     }
   ],
-  "attritionRate": 42,
+  "attritionRate": 43,
   "workforceBreakdown": {
     "desFixedTermContractors": 35,
     "odcInternal": 15,
@@ -623,7 +616,7 @@
     "indiaTodContractorQ2": 37,
     "indiaTodContractorQ3": 61,
     "indiaTodContractorQ4": 4,
-    "sharedInternal": 180,
+    "sharedInternal": 179,
     "sharedInterns": 2,
     "odcFtc": 35,
     "odcInternalBillable": 78,
@@ -708,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-16T14:08:06.492Z"
+  "updatedAt": "2026-10-16T15:59:56.984Z"
 }
