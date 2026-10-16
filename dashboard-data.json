@@ -3,8 +3,8 @@
   "capacity": [
     {
       "unit": "US Recruitment",
-      "approved": 64,
-      "active": 57,
+      "approved": 63,
+      "active": 56,
       "servingNotice": 0,
       "open": 7,
       "offered": 1,
@@ -98,13 +98,13 @@
       "q1": 22,
       "q2": 18,
       "q3": 15,
-      "q4": 1,
-      "ytd": 56,
-      "currentAttrition": 46.09053497942387,
-      "rate": 55.30864197530864,
+      "q4": 2,
+      "ytd": 57,
+      "currentAttrition": 47.107438016528924,
+      "rate": 56.528925619834716,
       "opening": 136,
-      "closing": 107,
-      "average": 121.5,
+      "closing": 106,
+      "average": 121,
       "includedInOverall": true
     },
     {
@@ -142,13 +142,13 @@
       "q1": 14,
       "q2": 11,
       "q3": 9,
-      "q4": 1,
-      "ytd": 35,
-      "currentAttrition": 51.470588235294116,
-      "rate": 61.764705882352935,
+      "q4": 2,
+      "ytd": 36,
+      "currentAttrition": 53.333333333333336,
+      "rate": 64,
       "opening": 79,
-      "closing": 57,
-      "average": 68
+      "closing": 56,
+      "average": 67.5
     },
     {
       "unit": "India Recruitment",
@@ -209,13 +209,13 @@
       "q1": 22,
       "q2": 18,
       "q3": 15,
-      "q4": 1,
-      "ytd": 56,
-      "currentAttrition": 46.09053497942387,
-      "rate": 55.30864197530864,
+      "q4": 2,
+      "ytd": 57,
+      "currentAttrition": 47.107438016528924,
+      "rate": 56.528925619834716,
       "opening": 136,
-      "closing": 107,
-      "average": 121.5,
+      "closing": 106,
+      "average": 121,
       "includedInOverall": true
     },
     {
@@ -573,7 +573,7 @@
       "exits": 1
     }
   ],
-  "attritionRate": 43,
+  "attritionRate": 44,
   "workforceBreakdown": {
     "desFixedTermContractors": 35,
     "odcInternal": 15,
@@ -616,7 +616,7 @@
     "indiaTodContractorQ2": 37,
     "indiaTodContractorQ3": 61,
     "indiaTodContractorQ4": 4,
-    "sharedInternal": 179,
+    "sharedInternal": 178,
     "sharedInterns": 2,
     "odcFtc": 35,
     "odcInternalBillable": 78,
@@ -701,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-16T16:00:02.925Z"
+  "updatedAt": "2026-10-16T16:56:43.507Z"
 }
