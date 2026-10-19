@@ -27,7 +27,7 @@
       "offered": 0,
       "tbh": 1,
       "longLeave": 1,
-      "pip": 0,
+      "pip": 1,
       "bench": 0,
       "servingNoticePeople": "",
       "positions": "1 Technical Recruiter",
@@ -701,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-19T09:30:05.722Z"
+  "updatedAt": "2026-10-19T09:32:21.741Z"
 }
