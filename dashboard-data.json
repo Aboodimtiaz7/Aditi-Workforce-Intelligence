@@ -626,7 +626,7 @@
   "content": {
     "title": "Workforce Intelligence",
     "scope": "",
-    "snapshotLabel": "Snapshot",
+    "snapshotLabel": "Data Updated ",
     "snapshotDate": "16 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
@@ -701,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-19T07:28:58.775Z"
+  "updatedAt": "2026-10-19T07:29:08.637Z"
 }
