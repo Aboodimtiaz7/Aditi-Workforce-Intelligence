@@ -1,20 +1,20 @@
 {
-  "schemaVersion": 8,
+  "schemaVersion": 9,
   "capacity": [
     {
       "unit": "US Recruitment",
-      "approved": 63,
+      "approved": 62,
       "active": 56,
-      "servingNotice": 0,
-      "open": 7,
-      "offered": 1,
-      "tbh": 6,
+      "servingNotice": 1,
+      "open": 6,
+      "offered": 2,
+      "tbh": 4,
       "longLeave": 0,
       "pip": 1,
-      "bench": 7,
-      "servingNoticePeople": "",
-      "positions": "7 US Technical Recruiter",
-      "offeredPeople": "Roshan Dsouza",
+      "bench": 6,
+      "servingNoticePeople": "Karthikeyan Manoharan",
+      "positions": "6 US Technical Recruiter",
+      "offeredPeople": "Roshan Dsouza, Sahana R",
       "longLeavePeople": "",
       "pipPeople": "Ameer Hamza"
     },
@@ -59,17 +59,17 @@
     },
     {
       "unit": "Business Operations",
-      "approved": 83,
+      "approved": 84,
       "active": 74,
       "servingNotice": 0,
-      "open": 9,
+      "open": 10,
       "offered": 1,
-      "tbh": 8,
+      "tbh": 9,
       "longLeave": 1,
       "pip": 0,
       "bench": 1,
       "servingNoticePeople": "",
-      "positions": "1 Engagement Specialist ,1 HR Service Delivery, 1 Desktop Support Executive, 1 Global Leader – Learning & Talent Development, 2 HRMS Administrator, 1 Business Process / Systems Analyst, 1 Global Employee Engagement Manager, 1 Global Compensation & Total Rewards Manager",
+      "positions": "1 Engagement Specialist ,1 HR Service Delivery, 1 Desktop Support Executive, 1 Global Leader – Learning & Talent Development (Xpheno), 2 HRMS Administrator (Xpheno), 1 Business Process / Systems Analyst(Xpheno), 1 Global Employee Engagement Manager (Xpheno), 1 Global Compensation & Total Rewards Manager (Xpheno), 1 Payroll Specialist/Sr Specialist",
       "offeredPeople": "Vanitha G",
       "longLeavePeople": "Piyali (ML)",
       "pipPeople": ""
@@ -81,7 +81,7 @@
       "servingNotice": 0,
       "open": 7,
       "offered": 0,
-      "tbh": 0,
+      "tbh": 7,
       "longLeave": 0,
       "pip": 0,
       "bench": 4,
@@ -627,7 +627,7 @@
     "title": "Workforce Intelligence",
     "scope": "India · TOD · ODC · Internal · Contractors",
     "snapshotLabel": "Snapshot",
-    "snapshotDate": "15 Oct 2026",
+    "snapshotDate": "16 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
     "capacityKpiLabel": "Internal capacity",
@@ -679,7 +679,7 @@
     "exitCallout": "Exit interview feedback",
     "exitMessage": "Positives\nStrong Company Culture — Employees appreciated Aditi's positive work environment, supportive colleagues, and organizational values, with one rating the culture 10/10.\nAdequate Work Resources — Both employees confirmed being 100% equipped with the necessary tools, resources, and support to perform effectively.\nSupportive Leadership & Mentorship — Appreciated Abhishek and Aalap for their guidance and mentorship, along with Ashfaq's professional approach.\nStrong Performance Feedback — Manager acknowledged professionalism, ownership, technical expertise, and consistent contributions.\n\nConcerns\nManagerial Behavior (Indira) — Employee reported frequent yelling, harsh communication, and a perceived lack of respect from the reporting manager.\nEmployee Grievance Handling — Employee felt that concerns escalated to PD were not adequately addressed or followed up.\nManagerial Accountability & Team Morale — Employee reported repeated concerns during pulse connects without visible corrective action and indicated similar dissatisfaction among colleagues.\nCompensation Dissatisfaction — Employee expressed dissatisfaction with comparatively low compensation and salary increments that did not meet expectations.\nLimited Client Exposure — Following the conclusion of the Verizon engagement, the employee sought opportunities to work with larger clients.\nRemote Work Flexibility — The prospective employer offered remote working flexibility, influencing the employee's decision despite Aditi's compensation counteroffer.\nPost-Resignation Managerial Behavior — Employee reported a change in Aalap's behavior following resignation, despite an otherwise positive working relationship.",
     "footerLeft": "Internal workforce snapshot · Source: Neew.xlsx",
-    "footerRight": "Category-based counts · Snapshot 15 Oct 2026"
+    "footerRight": "Category-based counts · Snapshot 16 Oct 2026"
   },
   "theme": {
     "navy": "#292929",
@@ -701,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-16T17:00:20.291Z"
+  "updatedAt": "2026-10-19T07:16:10.370Z"
 }
