@@ -625,7 +625,7 @@
   },
   "content": {
     "title": "Workforce Intelligence",
-    "scope": "India · TOD · ODC · Internal · Contractors",
+    "scope": "",
     "snapshotLabel": "Snapshot",
     "snapshotDate": "16 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
@@ -701,5 +701,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-19T07:16:10.370Z"
+  "updatedAt": "2026-10-19T07:28:58.775Z"
 }
