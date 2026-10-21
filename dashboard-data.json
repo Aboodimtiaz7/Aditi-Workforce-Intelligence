@@ -655,9 +655,9 @@
     "peopleSubtitle": "Offered Candidates, Serving Notice, Long Leave and PIP by business unit",
     "offeredStatusLabel": "Offered",
     "noticeStatusLabel": "Serving Notice",
-    "leaveStatusLabel": "Long leave",
+    "leaveStatusLabel": "Long Leave",
     "pipStatusLabel": "PIP",
-    "missingNamesLabel": "Names not provided",
+    "missingNamesLabel": "",
     "noEmployeesLabel": "No employees reported",
     "attritionEyebrow": "Retention",
     "attritionTitle": "Attrition trend",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:28:57.133Z"
+  "updatedAt": "2026-10-21T10:29:07.586Z"
 }
