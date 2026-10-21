@@ -633,7 +633,7 @@
     "attritionKpiLabel": "2026 attrition",
     "attritionKpiCaption": "{exits} internal exits YTD",
     "compositionEyebrow": "Workforce Mix",
-    "compositionTitle": "Organisation composition",
+    "compositionTitle": "Organisation Composition",
     "compositionSubtitle": "A complete view across internal teams and client contractors",
     "totalHcLabel": "Total HC",
     "todLabel": "TOD",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:22:57.609Z"
+  "updatedAt": "2026-10-21T10:23:00.632Z"
 }
