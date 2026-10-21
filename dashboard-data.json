@@ -641,7 +641,7 @@
     "internalLabel": "Internal",
     "contractorsLabel": "Contractors",
     "capacityEyebrow": "Capacity & Hiring",
-    "capacityTitle": "Approved HC, active HC and hiring demand",
+    "capacityTitle": "Approved HC, Active HC and hiring demand",
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
     "businessUnitColumn": "Business unit",
     "approvedColumn": "Approved",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:27:12.863Z"
+  "updatedAt": "2026-10-21T10:27:16.029Z"
 }
