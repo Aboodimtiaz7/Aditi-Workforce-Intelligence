@@ -685,10 +685,10 @@
     "danger": "#B65B4C",
     "background": "#F7F2E9",
     "text": "#292929",
-    "fontFamily": "Aptos, Segoe UI, Arial, sans-serif",
+    "fontFamily": "Arial, sans-serif",
     "headingWeight": 800,
     "bodyWeight": 400,
-    "fontScale": 100,
+    "fontScale": 95,
     "chartColors": [
       "#292929",
       "#B8843D",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T11:58:11.961Z"
+  "updatedAt": "2026-10-21T11:58:18.224Z"
 }
