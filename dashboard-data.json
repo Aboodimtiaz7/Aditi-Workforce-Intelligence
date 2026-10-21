@@ -688,7 +688,7 @@
     "fontFamily": "Aptos, Segoe UI, Arial, sans-serif",
     "headingWeight": 700,
     "bodyWeight": 400,
-    "fontScale": 100,
+    "fontScale": 105,
     "chartColors": [
       "#292929",
       "#B8843D",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T11:54:20.834Z"
+  "updatedAt": "2026-10-21T11:57:46.352Z"
 }
