@@ -652,7 +652,7 @@
     "tbhColumn": "TBH",
     "peopleEyebrow": "People Status",
     "peopleTitle": "People Movement Insights",
-    "peopleSubtitle": "Offered Candidates, Serving notice, long leave and PIP by business unit",
+    "peopleSubtitle": "Offered Candidates, Serving Notice, long leave and PIP by business unit",
     "offeredStatusLabel": "Offered",
     "noticeStatusLabel": "Serving notice",
     "leaveStatusLabel": "Long leave",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:28:38.683Z"
+  "updatedAt": "2026-10-21T10:28:43.779Z"
 }
