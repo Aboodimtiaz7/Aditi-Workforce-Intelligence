@@ -663,7 +663,7 @@
     "attritionTitle": "Attrition Trend",
     "attritionSubtitle": "Internal excludes records marked Not To Count In Attrition, ODC internal billable, ODC fixed-term contractors and India ToD contractors. YTD uses the workbook’s 12/10 annualisation factor.",
     "contractorEyebrow": "Contractors",
-    "contractorTitle": "All client accounts",
+    "contractorTitle": "All Client accounts",
     "contractorSubtitle": "{contractors} contractors across {accounts} India client accounts",
     "insightsEyebrow": "Board brief",
     "insightsTitle": "Executive insights",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:29:13.396Z"
+  "updatedAt": "2026-10-21T10:29:18.618Z"
 }
