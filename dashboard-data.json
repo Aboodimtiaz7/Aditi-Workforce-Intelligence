@@ -650,7 +650,7 @@
     "openColumn": "Open",
     "offeredColumn": "Offered",
     "tbhColumn": "TBH",
-    "peopleEyebrow": "People status",
+    "peopleEyebrow": "People Status",
     "peopleTitle": "Named workforce movements",
     "peopleSubtitle": "Offered candidates, serving notice, long leave and PIP by business unit",
     "offeredStatusLabel": "Offered",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:27:32.261Z"
+  "updatedAt": "2026-10-21T10:27:37.055Z"
 }
