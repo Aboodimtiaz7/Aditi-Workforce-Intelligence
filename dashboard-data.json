@@ -684,7 +684,7 @@
     "amber": "#D5A65C",
     "danger": "#B65B4C",
     "background": "#F7F2E9",
-    "text": "#292929",
+    "text": "#2a2a2a",
     "fontFamily": "Aptos, Segoe UI, Arial, sans-serif",
     "headingWeight": 800,
     "bodyWeight": 400,
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T11:58:23.115Z"
+  "updatedAt": "2026-10-21T11:58:34.079Z"
 }
