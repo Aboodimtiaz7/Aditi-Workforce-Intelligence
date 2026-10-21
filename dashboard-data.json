@@ -645,7 +645,7 @@
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
     "businessUnitColumn": "Business unit",
     "approvedColumn": "Approved",
-    "activeColumn": "Active vs approved",
+    "activeColumn": "Active vs Approved",
     "positionsColumn": "Positions being hired",
     "openColumn": "Open",
     "offeredColumn": "Offered",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:27:22.927Z"
+  "updatedAt": "2026-10-21T10:27:27.287Z"
 }
