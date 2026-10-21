@@ -658,9 +658,9 @@
     "leaveStatusLabel": "Long Leave",
     "pipStatusLabel": "PIP",
     "missingNamesLabel": "",
-    "noEmployeesLabel": "No employees reported",
+    "noEmployeesLabel": "",
     "attritionEyebrow": "Retention",
-    "attritionTitle": "Attrition trend",
+    "attritionTitle": "Attrition Trend",
     "attritionSubtitle": "Internal excludes records marked Not To Count In Attrition, ODC internal billable, ODC fixed-term contractors and India ToD contractors. YTD uses the workbook’s 12/10 annualisation factor.",
     "contractorEyebrow": "Contractors",
     "contractorTitle": "All client accounts",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:29:07.586Z"
+  "updatedAt": "2026-10-21T10:29:13.396Z"
 }
