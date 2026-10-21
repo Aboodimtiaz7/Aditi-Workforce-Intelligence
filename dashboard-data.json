@@ -629,7 +629,7 @@
     "capacityKpiLabel": "Internal Capacity",
     "capacityKpiCaption": "{active} active of {approved} approved",
     "openingsKpiLabel": "Open Positions",
-    "openingsKpiCaption": "{offered} offered · {tbh} still TBH",
+    "openingsKpiCaption": "{offered} offered · {tbh} TBH",
     "attritionKpiLabel": "2026 attrition",
     "attritionKpiCaption": "{exits} internal exits YTD",
     "compositionEyebrow": "Workforce Mix",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:26:48.589Z"
+  "updatedAt": "2026-10-21T10:26:56.824Z"
 }
