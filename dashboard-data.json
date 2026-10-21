@@ -626,9 +626,9 @@
     "snapshotDate": "20 Oct 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
-    "capacityKpiLabel": "Internal capacity",
+    "capacityKpiLabel": "Internal Capacity",
     "capacityKpiCaption": "{active} active of {approved} approved",
-    "openingsKpiLabel": "Open positions",
+    "openingsKpiLabel": "Open Positions",
     "openingsKpiCaption": "{offered} offered · {tbh} still TBH",
     "attritionKpiLabel": "2026 attrition",
     "attritionKpiCaption": "{exits} internal exits YTD",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:26:42.048Z"
+  "updatedAt": "2026-10-21T10:26:48.589Z"
 }
