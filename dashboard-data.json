@@ -646,7 +646,7 @@
     "businessUnitColumn": "Business unit",
     "approvedColumn": "Approved",
     "activeColumn": "Active vs Approved",
-    "positionsColumn": "Positions being hired",
+    "positionsColumn": "Positions Being Hired",
     "openColumn": "Open",
     "offeredColumn": "Offered",
     "tbhColumn": "TBH",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:27:27.287Z"
+  "updatedAt": "2026-10-21T10:27:32.261Z"
 }
