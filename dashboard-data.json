@@ -654,7 +654,7 @@
     "peopleTitle": "People Movement Insights",
     "peopleSubtitle": "Offered Candidates, Serving Notice, Long Leave and PIP by business unit",
     "offeredStatusLabel": "Offered",
-    "noticeStatusLabel": "Serving notice",
+    "noticeStatusLabel": "Serving Notice",
     "leaveStatusLabel": "Long leave",
     "pipStatusLabel": "PIP",
     "missingNamesLabel": "Names not provided",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:28:48.457Z"
+  "updatedAt": "2026-10-21T10:28:57.133Z"
 }
