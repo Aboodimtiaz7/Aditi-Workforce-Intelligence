@@ -629,7 +629,7 @@
     "capacityKpiLabel": "Internal Capacity",
     "capacityKpiCaption": "{active} active of {approved} approved",
     "openingsKpiLabel": "Open Positions",
-    "openingsKpiCaption": "{offered} offered · {tbh} TBH",
+    "openingsKpiCaption": "{offered} offered · {tbh}",
     "attritionKpiLabel": "2026 attrition",
     "attritionKpiCaption": "{exits} internal exits YTD",
     "compositionEyebrow": "Workforce Mix",
@@ -640,7 +640,7 @@
     "odcLabel": "ODC",
     "internalLabel": "Internal",
     "contractorsLabel": "Contractors",
-    "capacityEyebrow": "Capacity & hiring",
+    "capacityEyebrow": "Capacity & Hiring",
     "capacityTitle": "Approved HC, active HC and hiring demand",
     "capacitySubtitle": "Capacity bars compare active headcount against approved headcount",
     "businessUnitColumn": "Business unit",
@@ -697,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-10-21T10:26:56.824Z"
+  "updatedAt": "2026-10-21T10:27:12.863Z"
 }
