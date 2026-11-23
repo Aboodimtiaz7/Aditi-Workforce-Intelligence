@@ -7,16 +7,16 @@
       "active": 49,
       "servingNotice": 0,
       "open": 7,
-      "offered": 3,
-      "tbh": 4,
+      "offered": 2,
+      "tbh": 5,
       "longLeave": 0,
-      "pip": 2,
+      "pip": 0,
       "bench": 1,
       "servingNoticePeople": "",
       "positions": "7 US Technical Recruiter",
-      "offeredPeople": "Darshit Bhat, Shivam Rai & Rishabh Aggarwal",
+      "offeredPeople": "Darshit Bhat, Shivam Rai",
       "longLeavePeople": "",
-      "pipPeople": "Ameer Hamza,Nooh Ahmed Shaikh"
+      "pipPeople": ""
     },
     {
       "unit": "India Recruitment",
@@ -60,33 +60,33 @@
     {
       "unit": "Business Operations",
       "approved": 81,
-      "active": 72,
-      "servingNotice": 0,
-      "open": 9,
-      "offered": 3,
+      "active": 73,
+      "servingNotice": 1,
+      "open": 7,
+      "offered": 1,
       "tbh": 6,
       "longLeave": 1,
       "pip": 0,
       "bench": 1,
-      "servingNoticePeople": "",
-      "positions": "1 Engagement Specialist ,1 Desktop Support Executive,1 Payroll Specialist/Sr Specialist, 1 Global Leader – Learning & Talent Development (Xpheno), 2 HRMS Administrator (Xpheno), 1 Business Process / Systems Analyst(Xpheno), 1 Global Employee Engagement Manager (Xpheno), 1 Global Compensation & Total Rewards Manager (Xpheno),",
-      "offeredPeople": "Harshitha Shetty,Sid Kumbar, Vallesh B",
+      "servingNoticePeople": "Divya Jaiswal",
+      "positions": "1 Desktop Support Executive,1 Payroll Specialist/Sr Specialist, 2 HRMS Administrator (Xpheno), 1 Business Process / Systems Analyst(Xpheno), 1 Global Employee Engagement Manager (Xpheno), 1 Global Compensation & Total Rewards Manager (Xpheno),",
+      "offeredPeople": "Vallesh B",
       "longLeavePeople": "Piyali (ML)",
       "pipPeople": ""
     },
     {
       "unit": "ODC",
-      "approved": 153,
-      "active": 146,
+      "approved": 162,
+      "active": 145,
       "servingNotice": 0,
-      "open": 19,
-      "offered": 0,
-      "tbh": 19,
+      "open": 17,
+      "offered": 3,
+      "tbh": 14,
       "longLeave": 0,
       "pip": 0,
-      "bench": 3,
+      "bench": 2,
       "servingNoticePeople": "",
-      "positions": "19 × Billable fixed-term contractor positions",
+      "positions": "17 × Billable fixed-term contractor positions",
       "offeredPeople": "",
       "longLeavePeople": "",
       "pipPeople": ""
@@ -114,11 +114,11 @@
       "q3": 1,
       "q4": 1,
       "ytd": 2,
-      "currentAttrition": 15.384615384615385,
-      "rate": 18.46153846153846,
+      "currentAttrition": 16,
+      "rate": 19.2,
       "opening": 12,
-      "closing": 14,
-      "average": 13,
+      "closing": 13,
+      "average": 12.5,
       "includedInOverall": true
     },
     {
@@ -128,11 +128,11 @@
       "q3": 5,
       "q4": 1,
       "ytd": 17,
-      "currentAttrition": 22.516556291390728,
-      "rate": 27.019867549668874,
+      "currentAttrition": 22.22222222222222,
+      "rate": 26.666666666666664,
       "opening": 79,
-      "closing": 72,
-      "average": 75.5,
+      "closing": 74,
+      "average": 76.5,
       "includedInOverall": true
     }
   ],
@@ -183,24 +183,24 @@
       "q3": 5,
       "q4": 1,
       "ytd": 17,
-      "currentAttrition": 22.516556291390728,
-      "rate": 27.019867549668874,
+      "currentAttrition": 22.22222222222222,
+      "rate": 26.666666666666664,
       "opening": 79,
-      "closing": 72,
-      "average": 75.5
+      "closing": 74,
+      "average": 76.5
     },
     {
       "unit": "ODC",
       "q1": 8,
       "q2": 7,
-      "q3": 10,
-      "q4": 4,
-      "ytd": 29,
-      "currentAttrition": 20.350877192982455,
-      "rate": 24.42105263157895,
+      "q3": 11,
+      "q4": 7,
+      "ytd": 33,
+      "currentAttrition": 23.239436619718308,
+      "rate": 27.88732394366197,
       "opening": 139,
-      "closing": 146,
-      "average": 142.5
+      "closing": 145,
+      "average": 142
     }
   ],
   "attritionCohorts": [
@@ -225,11 +225,11 @@
       "q3": 9,
       "q4": 3,
       "ytd": 24,
-      "currentAttrition": 16.842105263157894,
-      "rate": 20.210526315789473,
+      "currentAttrition": 16.901408450704224,
+      "rate": 20.281690140845072,
       "opening": 139,
-      "closing": 146,
-      "average": 142.5,
+      "closing": 145,
+      "average": 142,
       "includedInOverall": false
     },
     {
@@ -239,11 +239,11 @@
       "q3": 1,
       "q4": 1,
       "ytd": 2,
-      "currentAttrition": 15.384615384615385,
-      "rate": 18.46153846153846,
+      "currentAttrition": 16,
+      "rate": 19.2,
       "opening": 12,
-      "closing": 14,
-      "average": 13,
+      "closing": 13,
+      "average": 12.5,
       "includedInOverall": true
     },
     {
@@ -281,22 +281,22 @@
       "q3": 5,
       "q4": 1,
       "ytd": 17,
-      "currentAttrition": 22.516556291390728,
-      "rate": 27.019867549668874,
+      "currentAttrition": 22.22222222222222,
+      "rate": 26.666666666666664,
       "opening": 79,
-      "closing": 72,
-      "average": 75.5,
+      "closing": 74,
+      "average": 76.5,
       "includedInOverall": true
     },
     {
       "unit": "India ToD Contractors",
       "q1": 66,
       "q2": 37,
-      "q3": 63,
-      "q4": 25,
-      "ytd": 191,
-      "currentAttrition": 58.05471124620061,
-      "rate": 69.66565349544072,
+      "q3": 62,
+      "q4": 29,
+      "ytd": 194,
+      "currentAttrition": 58.96656534954408,
+      "rate": 70.75987841945289,
       "opening": 259,
       "closing": 399,
       "average": 329,
@@ -306,230 +306,223 @@
   "contractors": [
     {
       "name": "Standard Chartered",
-      "count": 181,
-      "share": 45.363408521303256
+      "count": 215,
+      "share": 49.76851851851852
     },
     {
       "name": "Amazon",
-      "count": 71,
-      "share": 17.794486215538846
+      "count": 72,
+      "share": 16.666666666666664
     },
     {
       "name": "PayPal",
-      "count": 53,
-      "share": 13.283208020050125
+      "count": 52,
+      "share": 12.037037037037036
     },
     {
       "name": "Caterpillar",
-      "count": 27,
-      "share": 6.7669172932330826
+      "count": 28,
+      "share": 6.481481481481481
     },
     {
       "name": "Microsoft",
-      "count": 27,
-      "share": 6.7669172932330826
+      "count": 26,
+      "share": 6.018518518518518
     },
     {
       "name": "MasterCard",
       "count": 14,
-      "share": 3.508771929824561
+      "share": 3.2407407407407405
     },
     {
       "name": "LinkedIn",
-      "count": 10,
-      "share": 2.506265664160401
+      "count": 9,
+      "share": 2.083333333333333
     },
     {
       "name": "Salesforce",
       "count": 3,
-      "share": 0.7518796992481203
+      "share": 0.6944444444444444
     },
     {
       "name": "Rubrik",
       "count": 3,
-      "share": 0.7518796992481203
+      "share": 0.6944444444444444
     },
     {
       "name": "PepsiCo",
       "count": 3,
-      "share": 0.7518796992481203
+      "share": 0.6944444444444444
     },
     {
       "name": "Q2 Financials",
       "count": 3,
-      "share": 0.7518796992481203
+      "share": 0.6944444444444444
     },
     {
       "name": "Diageo PLC",
-      "count": 2,
-      "share": 0.5012531328320802
+      "count": 3,
+      "share": 0.6944444444444444
     },
     {
       "name": "Intuit",
-      "count": 2,
-      "share": 0.5012531328320802
+      "count": 1,
+      "share": 0.23148148148148145
     }
   ],
   "clientDeployment": [
     {
-      "indiaTod": 181,
+      "indiaTod": 215,
       "odc": 0,
       "name": "Standard Chartered",
-      "total": 181,
-      "share": 33.211009174311926
+      "total": 215,
+      "share": 37.26169844020797
     },
     {
-      "indiaTod": 71,
+      "indiaTod": 72,
       "odc": 2,
       "name": "Amazon",
-      "total": 73,
-      "share": 13.394495412844037
+      "total": 74,
+      "share": 12.824956672443674
     },
     {
       "indiaTod": 0,
       "odc": 59,
       "name": "T-Mobile",
       "total": 59,
-      "share": 10.825688073394495
+      "share": 10.22530329289428
     },
     {
-      "indiaTod": 53,
+      "indiaTod": 52,
       "odc": 5,
       "name": "PayPal",
-      "total": 58,
-      "share": 10.642201834862385
+      "total": 57,
+      "share": 9.878682842287695
     },
     {
       "indiaTod": 0,
-      "odc": 43,
+      "odc": 44,
       "name": "Wabtec",
-      "total": 43,
-      "share": 7.889908256880735
+      "total": 44,
+      "share": 7.625649913344887
     },
     {
-      "indiaTod": 27,
+      "indiaTod": 28,
       "odc": 8,
       "name": "Caterpillar",
-      "total": 35,
-      "share": 6.422018348623854
+      "total": 36,
+      "share": 6.239168110918544
     },
     {
-      "indiaTod": 27,
+      "indiaTod": 26,
       "odc": 1,
       "name": "Microsoft",
-      "total": 28,
-      "share": 5.137614678899083
+      "total": 27,
+      "share": 4.679376083188909
     },
     {
       "indiaTod": 14,
       "odc": 0,
       "name": "MasterCard",
       "total": 14,
-      "share": 2.5688073394495414
+      "share": 2.4263431542461005
     },
     {
-      "indiaTod": 10,
+      "indiaTod": 9,
       "odc": 0,
       "name": "LinkedIn",
-      "total": 10,
-      "share": 1.834862385321101
+      "total": 9,
+      "share": 1.559792027729636
     },
     {
       "indiaTod": 3,
       "odc": 4,
       "name": "Salesforce",
       "total": 7,
-      "share": 1.2844036697247707
+      "share": 1.2131715771230502
     },
     {
       "indiaTod": 3,
       "odc": 4,
       "name": "Rubrik",
       "total": 7,
-      "share": 1.2844036697247707
+      "share": 1.2131715771230502
     },
     {
       "indiaTod": 0,
       "odc": 6,
       "name": "AI Labs",
       "total": 6,
-      "share": 1.1009174311926606
+      "share": 1.0398613518197575
     },
     {
       "indiaTod": 3,
       "odc": 2,
       "name": "PepsiCo",
       "total": 5,
-      "share": 0.9174311926605505
+      "share": 0.8665511265164645
     },
     {
       "indiaTod": 3,
       "odc": 0,
       "name": "Q2 Financials",
       "total": 3,
-      "share": 0.5504587155963303
+      "share": 0.5199306759098787
     },
     {
-      "indiaTod": 0,
-      "odc": 3,
-      "name": "Bench",
+      "indiaTod": 3,
+      "odc": 0,
+      "name": "Diageo PLC",
       "total": 3,
-      "share": 0.5504587155963303
+      "share": 0.5199306759098787
     },
     {
       "indiaTod": 0,
       "odc": 3,
       "name": "GE Aerospace",
       "total": 3,
-      "share": 0.5504587155963303
-    },
-    {
-      "indiaTod": 2,
-      "odc": 0,
-      "name": "Diageo PLC",
-      "total": 2,
-      "share": 0.3669724770642202
-    },
-    {
-      "indiaTod": 2,
-      "odc": 0,
-      "name": "Intuit",
-      "total": 2,
-      "share": 0.3669724770642202
+      "share": 0.5199306759098787
     },
     {
       "indiaTod": 0,
       "odc": 2,
       "name": "Practice Head",
       "total": 2,
-      "share": 0.3669724770642202
+      "share": 0.34662045060658575
+    },
+    {
+      "indiaTod": 0,
+      "odc": 2,
+      "name": "Bench",
+      "total": 2,
+      "share": 0.34662045060658575
     },
     {
       "indiaTod": 0,
       "odc": 2,
       "name": "Unassigned",
       "total": 2,
-      "share": 0.3669724770642202
+      "share": 0.34662045060658575
+    },
+    {
+      "indiaTod": 1,
+      "odc": 0,
+      "name": "Intuit",
+      "total": 1,
+      "share": 0.17331022530329288
     },
     {
       "indiaTod": 0,
       "odc": 1,
       "name": "Sales",
       "total": 1,
-      "share": 0.1834862385321101
-    },
-    {
-      "indiaTod": 0,
-      "odc": 1,
-      "name": "Internal Project",
-      "total": 1,
-      "share": 0.1834862385321101
+      "share": 0.17331022530329288
     }
   ],
   "indiaTodExitClients": [
     {
       "name": "PayPal",
-      "exits": 60
+      "exits": 61
     },
     {
       "name": "Standard Chartered",
@@ -537,11 +530,11 @@
     },
     {
       "name": "Amazon",
-      "exits": 35
+      "exits": 36
     },
     {
       "name": "Microsoft",
-      "exits": 25
+      "exits": 27
     },
     {
       "name": "LinkedIn",
@@ -579,18 +572,18 @@
   "attritionRate": 45,
   "workforceBreakdown": {
     "desFixedTermContractors": 35,
-    "odcInternal": 14,
+    "odcInternal": 13,
     "odcAiLabs": 15,
     "odcInterns": 4,
     "odcInternalQ1": 0,
     "odcInternalQ2": 0,
     "odcInternalQ3": 1,
     "odcInternalQ4": 1,
-    "odcInternalAttritionRate": 18.46153846153846,
-    "odcInternalCurrentAttritionRate": 15.384615384615385,
+    "odcInternalAttritionRate": 19.2,
+    "odcInternalCurrentAttritionRate": 16,
     "odcInternalOpening": 12,
-    "odcInternalClosing": 14,
-    "odcInternalAverage": 13,
+    "odcInternalClosing": 13,
+    "odcInternalAverage": 12.5,
     "odcBillableQ1": 5,
     "odcBillableQ2": 4,
     "odcBillableQ3": 1,
@@ -609,17 +602,17 @@
     "odcFtcOpening": 34,
     "odcFtcClosing": 35,
     "odcFtcAverage": 34.5,
-    "indiaTodContractorExits": 191,
-    "indiaTodContractorAttritionRate": 69.66565349544072,
-    "indiaTodContractorCurrentAttritionRate": 58.05471124620061,
+    "indiaTodContractorExits": 194,
+    "indiaTodContractorAttritionRate": 70.75987841945289,
+    "indiaTodContractorCurrentAttritionRate": 58.96656534954408,
     "indiaTodContractorOpening": 259,
     "indiaTodContractorClosing": 399,
     "indiaTodContractorAverage": 329,
     "indiaTodContractorQ1": 66,
     "indiaTodContractorQ2": 37,
-    "indiaTodContractorQ3": 63,
-    "indiaTodContractorQ4": 25,
-    "sharedInternal": 170,
+    "indiaTodContractorQ3": 62,
+    "indiaTodContractorQ4": 29,
+    "sharedInternal": 171,
     "sharedInterns": 2,
     "odcFtc": 35,
     "odcInternalBillable": 78,
@@ -630,7 +623,7 @@
     "title": "Workforce Intelligence",
     "scope": "",
     "snapshotLabel": "Updated Date",
-    "snapshotDate": "17 Nov 2026",
+    "snapshotDate": "23 Nov 2026",
     "organisationKpiLabel": "Organisation HC",
     "organisationKpiCaption": "{internal} internal · {contractors} contractors",
     "capacityKpiLabel": "Internal Capacity",
@@ -704,5 +697,5 @@
       "#938274"
     ]
   },
-  "updatedAt": "2026-11-17T15:50:09.946Z"
+  "updatedAt": "2026-11-23T13:28:01.591Z"
 }
